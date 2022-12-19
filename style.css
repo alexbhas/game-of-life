@@ -1,5 +1,6 @@
 body{
-    background: linear-gradient(180deg, rgba(161,5,232,1) 0%, rgba(250,196,247,1) 100%, rgba(0,255,175,1) 100%);
+    background-image: linear-gradient(180deg, rgba(161,5,232,1) 0%, rgba(250,196,247,1) 100%, rgba(0,255,175,1) 100%);
+    background-attachment: fixed;
 }
 
 .container {
